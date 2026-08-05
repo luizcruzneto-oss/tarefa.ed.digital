@@ -1,10 +1,26 @@
 body {
     background-color #D3D3D3 ;
-    color: #000000 ;
+    color: #dad885 ;
     font-family:Arial, sans-serif
 
 }
 
 header {
-    background-color #
+    background-color:#f80000;
+    color:#dad885;
+    text-align:center;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    color: #f08181;
+}
+
+p {
+    font-size: 18px;
+    line-height:1.6;
 }
