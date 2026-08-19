@@ -37,7 +37,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #c77dff;
+    background-color: #172C44;
 
 }
 
@@ -75,7 +75,7 @@ card {
     background-color: #f3d9fa;
     padding:15px;
     margin: 15px;
-    border-left: 6px solid #6b2d6c;
+    border-left: 6px solid #172C44;
     border-radius: 10px;
 
 }
