@@ -12,5 +12,4 @@ function curtir(){
             curtiu = false;
         }
 }
-});
-Referências
+})
