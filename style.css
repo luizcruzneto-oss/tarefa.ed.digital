@@ -50,7 +50,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #508dd3;
+    background-color: var(--cor-hover);  
 
 }
 
@@ -61,7 +61,7 @@ main {
 }
 
 section {
-    background-color: white;
+    background-color: var(--cor-superficie);
     margin: 20px;
     padding: 20px;
     border-radius: 12px;
@@ -85,10 +85,10 @@ figcaption {
 
 .card {
 
-    background-color:var(--cor-fundo);
+    background-color:var(--cor-card);
     padding:15px;
     margin: 15px;
-    border-left: 6px solid;
+    border-left: 6px solid var(--cor-principal);
     border-radius: 10px;
 
 }
@@ -107,7 +107,7 @@ footer {
 
 button {
     background-color:var(--cor-principal); 
-    color: rgb(62, 73, 139);
+    color: var(--cor-clara);
     border: none;
     padding: 10px 15px;
     border-radius: 8px;
