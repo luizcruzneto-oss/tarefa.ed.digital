@@ -12,11 +12,17 @@
 }
 
 .tema-escuro {
-    --cor-fundo: black;
-    --cor-texto-: white;
-    --cor-principal: #ACC8E5;
-    --cor-superficie: black;
-    --cor-card: black;
+    
+       --cor-fundo:#000000 ;
+    --cor-texto:#ffffff;
+    --cor-principal:#ACC8E5;
+    --cor-secundaria:#172C44;
+    --cor-hover:#435263;
+    --cor-superficie:white;
+    --cor-card:#435c68;
+    --cor-legenda:#555555;
+    --cor-clara:white;
+    --cor-rodape:#222222;
 }
 
 body {
